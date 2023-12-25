@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "DataAnalysisandViz", "DataAnalysisandViz.pyproj", "{DA26ED4B-6083-44C7-A882-6D578504181E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA26ED4B-6083-44C7-A882-6D578504181E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA26ED4B-6083-44C7-A882-6D578504181E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C5D2BB4A-5C75-4379-AC0D-058256EB6A34}
+	EndGlobalSection
+EndGlobal
